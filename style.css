@@ -1,0 +1,146 @@
+.hdnav {
+    height: 180x;
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+}
+
+.hdnav:visited {
+    color: blueviolet;
+}
+
+.imnav {
+    width: 150px;
+    height: 150px;
+}
+
+nav a {
+    font-size: 35px;
+    padding: 50px 20px 0px 15px;
+    justify-content: center;
+    font-family: arial;
+    text-decoration: none;
+    border-radius: 15px;
+    color: rgb(255, 255, 255);
+}
+
+
+body {
+    font-family: consolas;
+}
+
+
+body h2 {
+    width: 1000px;
+    margin-left: 200px;
+}
+
+body h1 {
+    margin-left: 150px;
+    margin-top: 100px;
+}
+
+.nado {
+    position: relative;    
+    margin: 0px 0px 0px 1000px;
+}
+
+.ingridiants {
+    margin-top: 150px;
+}
+
+.invgrabout {
+    background-color: rgb(255, 198, 129);
+    width: 400px;
+    height: 260px;
+    margin-left: 300px;
+    margin-top: 50px;
+}
+
+.olavashe {
+    font-size: 20px;
+}
+
+.olavasheh2 {
+    padding-left: 0px;  
+    font-size: 50pz;  
+}
+
+.invgrabout2 {
+    background-color: rgb(255, 198, 129);
+    width: 400px;
+    height: 260px;
+    margin-left: 300px; 
+}
+
+.omase {
+    font-size: 20px;
+    padding-left: 20px;
+}
+
+
+.standarts {
+    width: 600px;
+    height: 250px;
+    background-color: rgb(255, 198, 129);
+    margin-left: 250px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-size: larger;
+}
+
+p {
+    padding-left: 40px;
+}
+
+.rules {
+    color: coral;    
+    padding: 10px 0px 0px 40px;
+}
+
+.img1 {
+    width: 1000px;
+    height: 600px;
+    margin: 50px 0px 0px 250px;
+    justify-content: center;
+}
+
+.img2 {
+    width: 1000px;
+    height: 600px;
+    margin: 20px 0px 0px 250px;
+}
+
+.ftnav {
+    background-color: rgb(18, 18, 18);
+    height: 300px;
+    display: flex;
+    justify-content: space-between;
+}
+
+footer a{
+    color: rgb(102, 102, 102);
+}
+
+footer a:hover{
+    color: white;
+    transition: 0.3s;
+}
+
+.asside {
+    background-color: darkorange;
+    height: 100px;
+    font-size: 20px;
+    justify-content: center;
+    padding: 10px 0px 0px 20px;
+}
+
+.lyshnee {
+    color: black;
+}
+
+
+header a:hover{
+    color: orange;
+    transition: 0.3s;
+}
